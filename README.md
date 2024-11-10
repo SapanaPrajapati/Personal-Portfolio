@@ -1,6 +1,6 @@
 👋 Hi, I'm Sapana Prajapati!
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on Full Stack Development, e.g., JavaScript, Python, React, etc.]. This repository contains my personal portfolio website where I showcase my projects, skills, etc .
+Welcome to my GitHub profile! I'm a passionate developer with a focus on Full Stack Web Development e.g., JavaScript, Python, Reactjs . This repository contains my personal portfolio website where I showcase my projects, skills, etc .
 
 🚀 About Me
 
