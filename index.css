@@ -153,8 +153,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    /* background: url("https://images.pexels.com/photos/4360449/pexels-photo-4360449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center; */
-    background: url("https://i.makeagif.com/media/8-09-2024/1slvoV.gif") no-repeat center;
+    background: url("https://i.makeagif.com/media/5-17-2018/f6ZEPU.gif") no-repeat center;
     height: 900px;       
     /* 1vh=10px */
     color: BLACK;
@@ -170,8 +169,13 @@ section .title::after{
 .home .max-width .row{
   margin-right: 0;
 }
+.text-1 span{
+    color: orangered;
+    font-weight: bold;
+ 
+}
 .home .home-content .text-1{
-    font-size: 20px;
+    font-size: 30px;
 }
 .home .home-content .text-2{
     font-size: 75px;
