@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Full St
 
 🛠️ Tech Stack
 
-Languages: JavaScript and Python.
+Frontend : HTML, CSS.
 
-Frameworks: Reactjs
+Backend : JavaScript
 
 Tools: Vs code and GitHub.
 
